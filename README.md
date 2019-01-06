@@ -133,7 +133,7 @@ and press enter. It will save the file and exit.
 
 => Now when it is fully synced, go to your Windows wallet and start the Masternode from Subinodes tab.
 
-If you are not sure about this, after opening Subines tab, right click on Masternode name and the click on "Start alias". Your nodes should show PRE_ENABLED in status and after a few minutes change to ENABLED.
+If you are not sure about this, after opening Subines tab, right click on Masternode name and then click on "Start alias". Your nodes should show PRE_ENABLED in status and after a few minutes change to ENABLED.
 
 => Now in VPS type:
 
