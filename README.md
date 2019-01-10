@@ -52,6 +52,8 @@ You'll get VPS with above configuration for only 3.5$ in <a href="https://www.vu
 
 ```sudo add-apt-repository ppa:bitcoin/bitcoin```
 
+```sudo apt-get update```
+
 ```sudo apt-get install libdb4.8-dev libdb4.8++-dev```
 
 ```sudo apt-get install unzip```
