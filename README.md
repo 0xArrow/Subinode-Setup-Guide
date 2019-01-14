@@ -141,7 +141,7 @@ If you are not sure about this, after opening Subinodes tab, right click on Mast
 
 ```./subi-cli subinode start```
 
-If everything is okay, you will see "Successfully started subinode".
+If everything is okay, you will see "Subinode successfully started".
 
 => Then to see Masternode status type:
 
